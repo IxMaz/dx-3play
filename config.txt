@@ -1,5 +1,5 @@
-token= NTI3NDYzNDY2NDU0NDgyOTU2.DwVDZA.Xh2lwtLe9uoG-jvuiDrzhfH7dsg
-owner= 333140974865874944
+token= NTI4OTAzNTY5OTQwOTM4Nzcz.Dw6Iyw.eHaxsbnSTJZ2qO-Vlr2zUf9towE
+owner= 510520286488035339
 prefix= 9
 game= Type 9help
 stayinchannel=true 
